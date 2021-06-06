@@ -12,4 +12,4 @@ An Multi purpose Bot Which Can :-
 If you Find Any Bugs Or Want to Give Your Feedbacks Then Kindly Contact Me Through [Telegram ](https://telegram.dog/shamilnelli) 
 Also Support Our Channel [MwK Projects](https://telegram.dog/MwKLinks) 
 
-# for Telegram
+###### This Bot Is Completely Designed for Telegram
