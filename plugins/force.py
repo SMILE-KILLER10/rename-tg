@@ -53,10 +53,10 @@ async def text(bot, update):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("👨‍🔬 Developer", url=f"https://t.me/shamilnelli")
+                    InlineKeyboardButton("👨‍🔬 Developer", url=f"https://t.me/smile_killer_010")
                 ],[
-                   InlineKeyboardButton("⚙ Updates Channel", url=f"https://t.me/mwklinks"),
-                    InlineKeyboardButton("🛠 Support Group", url=f"https://t.me/redbullfed")
+                   InlineKeyboardButton("⚙ Updates Channel", url=f"https://t.me/fc_new_movies"),
+                    InlineKeyboardButton("🛠 Support Group", url=f"https://t.me/nazriyaofftopic")
                 ],
                 [
                     InlineKeyboardButton('Help', callback_data = "ghelp")
